@@ -1,7 +1,7 @@
 # Booking_Ai_Agent
 AI-powered meeting scheduler built with n8n and Gemini API that automates the entire process of collecting user details, understanding intent, finding availability, and booking meetings on both the user's and the company's calendars. Designed for seamless, hands-free scheduling through smart automation.
 
-# 🤖 AI Meeting Scheduler Agent (n8n + Gemini)
+# 🤖 Booking AI Agent (n8n + Gemini)
 
 This project is an intelligent meeting scheduler built using [n8n](https://n8n.io) and Google's **Gemini API**. It automates the end-to-end process of booking meetings — from capturing user input to scheduling across calendars — with no human involvement required.
 
